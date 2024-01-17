@@ -1,0 +1,2 @@
+# Blog
+some learning notes
